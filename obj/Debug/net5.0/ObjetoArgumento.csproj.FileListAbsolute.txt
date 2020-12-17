@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.exe
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.deps.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.runtimeconfig.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.runtimeconfig.dev.json
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ref\ObjetoArgumento.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\bin\Debug\net5.0\ObjetoArgumento.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.csprojAssemblyReference.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.AssemblyInfo.cs
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ref\ObjetoArgumento.dll
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.pdb
+C:\Users\User\Documents\Desenvolvimento web senai\Sprint 4 - Backend 2 - POO\ObjetoArgumento\obj\Debug\net5.0\ObjetoArgumento.genruntimeconfig.cache
