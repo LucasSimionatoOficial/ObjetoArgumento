@@ -19,6 +19,14 @@ namespace ObjetoArgumento
             carrinho.AdicionarProduto(p4);
 
             carrinho.MostrarProdutos();
+
+            Produto p5 = new Produto(5, "GTA San Andreas", 120f);
+            carrinho.AlterarItem(1, p5);
+
+            carrinho.MostrarProdutos();
+            carrinho.RemoverProduto(p5);
+
+            carrinho.MostrarProdutos();
         }
     }
 }
